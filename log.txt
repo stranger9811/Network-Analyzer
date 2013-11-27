@@ -1,0 +1,2112 @@
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.11.155
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 185
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.84.135
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 41
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.33.117
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 123
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.246.113
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 11
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.139.68
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 173
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.152.236
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 131
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.108.30
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 223
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 52
+
+		ETHERNET HEADER		
+Ethernet type 26 not IP
+Destination Ethernet Address:   1:80:c2:0:0:0
+Source Ethernet Address:   0:17:5a:fd:89:10
+Protocol : 26
+
+			IP HEADER			
+Version : 4
+Header length : 8
+Source ip: 96.5.0.27
+Destination ip: 12.237.232.192
+Type of service: 66
+Time to live: 0
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 156
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   e0:69:95:41:80:35
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.47.4
+Destination ip: 172.27.22.44
+Type of service: 0
+Time to live: 20
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.141.164
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 244
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.63.244
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 159
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.13.249
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 36
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.30.251
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 170
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.0.148
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 113
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.170.32
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 121
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.148.42
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 251
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.220.185
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 180
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.39.251
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 157
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.15.100
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 135
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.85.160
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 64
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.145.241
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 61
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 156
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   e0:69:95:41:80:35
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.98.232
+Destination ip: 172.27.22.44
+Type of service: 0
+Time to live: 21
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 121
+
+		ETHERNET HEADER		
+Ethernet type 86dd not IP
+Destination Ethernet Address:   33:33:0:0:0:fb
+Source Ethernet Address:   0:24:8c:19:16:42
+Protocol : 86dd
+
+			IP HEADER			
+Version : 6
+Header length : 0
+Source ip: 254.128.0.0
+Destination ip: 0.0.0.0
+Type of service: 0
+Time to live: 67
+Ip protocol: 17
+Checksum : 255
+
+			UDP HEADER			
+UDP Source Port: 24576
+UDP Destination Port: 0
+UDP Length 67
+UDP CheckSum: 4607
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.133.108
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 35
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.226.211
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 70
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 66
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.20.15
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 170
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 66
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.18.218
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 223
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 66
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 63.6.30.50
+Destination ip: 172.22.1.2
+Type of service: 0
+Time to live: 135
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 66
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 63.6.29.149
+Destination ip: 172.22.1.2
+Type of service: 0
+Time to live: 36
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.72.111
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 23
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.16.149
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 198
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.175.206
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 25
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 92
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:1c:c0:b2:db:e3
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.78.178
+Destination ip: 172.27.17.190
+Type of service: 0
+Time to live: 249
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 175
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   1:0:5e:7f:ff:fa
+Source Ethernet Address:   7c:e9:d3:4c:81:1e
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 1.17.164.132
+Destination ip: 172.27.22.133
+Type of service: 0
+Time to live: 45
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 48
+
+		ETHERNET HEADER		
+Ethernet type 22 not IP
+Destination Ethernet Address:   1:0:c:cc:cc:cc
+Source Ethernet Address:   0:17:5a:fd:89:10
+Protocol : 22
+
+			IP HEADER			
+Version : 10
+Header length : 40
+Source ip: 1.0.1.0
+Destination ip: 5.0.0.2
+Type of service: 170
+Time to live: 12
+Ip protocol: 32
+Checksum : 4
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 90
+
+		ETHERNET HEADER		
+Ethernet type 4c not IP
+Destination Ethernet Address:   1:0:c:0:0:0
+Source Ethernet Address:   0:17:5a:fd:89:10
+Protocol : 4c
+
+			IP HEADER			
+Version : 10
+Header length : 40
+Source ip: 0.0.0.0
+Destination ip: 1.0.12.204
+Type of service: 170
+Time to live: 12
+Ip protocol: 0
+Checksum : 3
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 60
+
+		ETHERNET HEADER		
+Ethernet type hex:806 dec:2054 is an ARP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 806
+
+			IP HEADER			
+Version : 0
+Header length : 0
+Source ip: 216.36.189.145
+Destination ip: 93.64.172.20
+Type of service: 1
+Time to live: 4
+Ip protocol: 0
+Checksum : 1
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 92
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:11:d8:46:c4:b8
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.129.136
+Destination ip: 172.27.17.70
+Type of service: 0
+Time to live: 155
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 248.17.104.246
+Destination ip: 182.239.153.185
+Type of service: 0
+Time to live: 33
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 130
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.76.40
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 182
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 257
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:30:48:59:4:be
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.176.94
+Destination ip: 172.27.17.102
+Type of service: 0
+Time to live: 0
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 60
+
+		ETHERNET HEADER		
+Ethernet type hex:806 dec:2054 is an ARP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   d4:be:d9:2d:cf:34
+Protocol : 806
+
+			IP HEADER			
+Version : 0
+Header length : 0
+Source ip: 212.190.217.45
+Destination ip: 207.52.172.24
+Type of service: 1
+Time to live: 4
+Ip protocol: 0
+Checksum : 1
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 165
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:1c:c0:f3:7b:73
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.176.167
+Destination ip: 172.27.17.121
+Type of service: 0
+Time to live: 0
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.188.2
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 58
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.212.38
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 190
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.61.12
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 157
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.77.47
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 118
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 258
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:30:48:5a:b4:d0
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.176.94
+Destination ip: 172.27.17.101
+Type of service: 0
+Time to live: 0
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.249.170
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 229
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.199.64
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 75
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.145.227
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 205
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.96.201
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 45
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.114.82
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 169
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.90.125
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 182
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.193.156
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 190
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.147.148
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 203
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.208.97
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 109
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.45.5
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 49
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.88.9
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 131
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.239.219
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 92
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.11.111
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 9
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.244.38
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 200
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.176.40
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 215
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 121
+
+		ETHERNET HEADER		
+Ethernet type 86dd not IP
+Destination Ethernet Address:   33:33:0:0:0:fb
+Source Ethernet Address:   0:24:8c:19:13:a0
+Protocol : 86dd
+
+			IP HEADER			
+Version : 6
+Header length : 0
+Source ip: 254.128.0.0
+Destination ip: 0.0.0.0
+Type of service: 0
+Time to live: 67
+Ip protocol: 17
+Checksum : 255
+
+			UDP HEADER			
+UDP Source Port: 24576
+UDP Destination Port: 0
+UDP Length 67
+UDP CheckSum: 4607
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 101
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   1:0:5e:0:0:fb
+Source Ethernet Address:   0:24:8c:19:13:a0
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 255.17.220.80
+Destination ip: 172.27.18.46
+Type of service: 0
+Time to live: 0
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 92
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:1c:c0:b2:db:e3
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.78.78
+Destination ip: 172.27.17.190
+Type of service: 0
+Time to live: 93
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.232.121
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 218
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.154.47
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 129
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.81.228
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 12
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.96.29
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 96
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.100.241
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 0
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.108.253
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 114
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.154.148
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 104
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.150.224
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 184
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.169.182
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 221
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.59.32
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 252
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.82.231
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 190
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.57.39
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 222
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.235.228
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 180
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.39.235
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 59
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.24.194
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 172
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.182.90
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 61
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.155.88
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 230
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.235.185
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 196
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 72
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 247.17.210.14
+Destination ip: 71.231.124.227
+Type of service: 0
+Time to live: 231
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 130
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.19.200
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 244
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 248.17.104.111
+Destination ip: 182.239.153.185
+Type of service: 0
+Time to live: 178
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.70.4
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 30
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 60
+
+		ETHERNET HEADER		
+Ethernet type hex:806 dec:2054 is an ARP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   38:60:77:df:f4:75
+Protocol : 806
+
+			IP HEADER			
+Version : 0
+Header length : 0
+Source ip: 56.96.119.223
+Destination ip: 244.117.172.27
+Type of service: 1
+Time to live: 4
+Ip protocol: 0
+Checksum : 1
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 218
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:24:8c:19:16:3d
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 128.17.58.165
+Destination ip: 172.27.18.1
+Type of service: 0
+Time to live: 96
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.70.81
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 24
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.110.136
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 138
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 78
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.59.250
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 140
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 66
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.235.255
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 231
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 60
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:19:99:93:45:3
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.46.21
+Destination ip: 172.27.17.94
+Type of service: 0
+Time to live: 39
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 60
+
+		ETHERNET HEADER		
+Ethernet type hex:806 dec:2054 is an ARP packet
+Destination Ethernet Address:   ff:ff:ff:ff:ff:ff
+Source Ethernet Address:   0:1c:c0:b2:db:4a
+Protocol : 806
+
+			IP HEADER			
+Version : 0
+Header length : 0
+Source ip: 0.28.192.178
+Destination ip: 219.74.172.27
+Type of service: 1
+Time to live: 4
+Ip protocol: 0
+Checksum : 1
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.150.154
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 223
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 62
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.6.254.174
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 178
+Ip protocol: 64
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 304
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   20:c9:d0:7a:62:63
+Source Ethernet Address:   d8:24:bd:91:5d:40
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 247.17.208.195
+Destination ip: 71.231.124.227
+Type of service: 0
+Time to live: 74
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LENGTH of packet: 592
+
+		ETHERNET HEADER		
+Ethernet type hex:800 dec:2048 is an IP packet
+Destination Ethernet Address:   d8:24:bd:91:5d:40
+Source Ethernet Address:   20:c9:d0:7a:62:63
+Protocol : 800
+
+			IP HEADER			
+Version : 4
+Header length : 20
+Source ip: 64.17.167.181
+Destination ip: 172.27.22.215
+Type of service: 0
+Time to live: 57
+Ip protocol: 0
+Checksum : 0
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
