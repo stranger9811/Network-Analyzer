@@ -40,6 +40,8 @@ def getStats():
 	summ=0
 	for i in range(0,3):
 		summ += stats[i]
+	if (summ==0):
+		summ=1
 	for i in range(0,3):
 		stats[i] = (stats[i] * 400)/summ
 	f.close();
@@ -57,18 +59,35 @@ def writeText(caption,num,stats,HEIGHT):
 
 def getPacketTypes(BEGINX,BEGINY,HEIGHT):
 	stats=getStats();
+	basicFont=pygame.font.SysFont(None,30)
+	text=basicFont.render("Packet Distribution",True,black,white)
+	textRect = text.get_rect()
+	textRect.centery = 30
+	textRect.centerx = BEGINX + 100
+	screen.blit(text,textRect)
+	BEGINY += 30
 	pygame.draw.rect(screen,red,[BEGINX,BEGINY,stats[0],HEIGHT])
 	pygame.draw.rect(screen,green,[BEGINX+stats[0],BEGINY,stats[1],HEIGHT])
 	pygame.draw.rect(screen,blue,[BEGINX+stats[0]+stats[1],BEGINY,stats[2],HEIGHT])
 	writeText('TCP',0,stats,HEIGHT)
 	writeText('UDP',1,stats,HEIGHT)
 	writeText('ICMP',2,stats,HEIGHT)
+	basicFont=pygame.font.SysFont(None,20)
+	text=basicFont.render("TCP -  "+ str(stats[0]/4.0) +"%"+
+				",   UDP -  " + str(stats[1]/4.0) + "%" +
+				",   ICMP-  " + str(stats[2]/4.0) + "%", True, black, white) 
+	textRect = text.get_rect()
+	textRect.centery = HEIGHT+BEGINY+25
+	textRect.centerx = BEGINX + 200
+	screen.blit(text,textRect)
 
 class Histogram():
-	def __init__(self,num,filename,name):
+	def __init__(self,num,filename,xname,yname,name):
 		self.num = num
 		self.filename=filename
 		self.name = name
+		self.xname = xname
+		self.yname = yname
 		self.gap = 10
 		self.maxm = num
 		self.color = []
@@ -119,14 +138,44 @@ class Histogram():
 		for i in range(0,self.maxm):
 			singleHeight = (maxHeight*self.data[i])/maxData
 			pygame.draw.rect(screen,self.color[i],[totalGap+posx,posy-singleHeight,singleWidth,singleHeight])
+
+			basicFont=pygame.font.SysFont(None,10)
+			text=basicFont.render(self.ip[i],True,black,white)
+			textRect = text.get_rect()
+			textRect.centery = posy+self.gap
+			textRect.centerx = posx + totalGap + singleWidth/2
+			screen.blit(text,textRect)
+
 			totalGap += singleWidth + gap
+
+		basicFont=pygame.font.SysFont(None,20)
+		text=basicFont.render(self.xname,True,black,white)
+		textRect = text.get_rect()
+		textRect.centery = posy+ 25
+		textRect.centerx = posx + width/2
+		screen.blit(text,textRect)
+
+		basicFont=pygame.font.SysFont(None,20)
+		text=basicFont.render(self.yname,True,black,white)
+		text = pygame.transform.rotate(text,90)
+		textRect = text.get_rect()
+		textRect.centery = posy - height/2 - self.gap
+		textRect.centerx = posx
+		screen.blit(text,textRect)
+
+		basicFont=pygame.font.SysFont(None,30)
+		text=basicFont.render(self.name,True,black,white)
+		textRect = text.get_rect()
+		textRect.centery = posy - height - 3*self.gap
+		textRect.centerx = posx + width/2 + 35
+		screen.blit(text,textRect)
 		
 
 clock = pygame.time.Clock()
 done=False
 (BEGINX,BEGINY) = (20,20)
-IP = Histogram(5,'ip_list.txt','IP Addresses with Max. Usage')
-PacketSize = Histogram(5,'packet_list.txt','Packet Size Frequency')
+IP = Histogram(5,'ip_list.txt','IP Address','Usage','Top 5 IP Addresses with Max. Usage')
+PacketSize = Histogram(5,'packet_list.txt','Packet Size','Frequency','Packet Size Frequency')
 HEIGHT = 50
 
 while done==False:
@@ -135,12 +184,12 @@ while done==False:
 		if (event.type == pygame.QUIT):
 			done = True
 	clock.tick(50)
-	os.system('./random')
+	os.system('./sniffer 1 1')
 	getPacketTypes(BEGINX,BEGINY,HEIGHT)
-	pygame.draw.lines(screen,black,False,[(0,125),(size[0],125)],3)
+	pygame.draw.lines(screen,black,False,[(0,145),(size[0],145)],3)
 	IP.readFile()
 	IP.draw(BEGINX,400,200,250)
-	pygame.draw.lines(screen,black,False,[(size[0]/2,125),(size[0]/2,size[1])],3)
+	pygame.draw.lines(screen,black,False,[(size[0]/2,145),(size[0]/2,size[1])],3)
 	PacketSize.readFile()
 	PacketSize.draw(BEGINX+400,400,200,250)
 	pygame.display.flip()

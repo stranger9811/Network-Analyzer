@@ -382,7 +382,7 @@ void packet_receive(u_char *args, const struct pcap_pkthdr *header, const u_char
 }
 
 
-int main()
+int main(int argc, char *argv[])
 {
 	char *device=NULL;
 	char error_buffer[PCAP_ERRBUF_SIZE], devices_array[100][100];
@@ -390,7 +390,7 @@ int main()
 	pcap_if_t *all_devices, *device_t;
 	int count=1, n;
 	memset(packet_size_stats,0,sizeof(packet_size_stats));
-
+	
 	//find all available devices
 	printf("Finding available devices ... ");
     if( pcap_findalldevs( &all_devices , error_buffer) )
@@ -413,8 +413,10 @@ int main()
     }
      
     //Ask user which device to sniff
-    printf("Enter the number of the device you want to sniff : ");
-    scanf("%d" , &n);
+    //printf("Enter the number of the device you want to sniff : ");
+    //scanf("%d" , &n);
+    if (argc > 1) n = atoi(argv[1]);
+    else n=1;
 	device=devices_array[n];
 
 	//network number
@@ -451,10 +453,11 @@ int main()
 	char ch;
 	int i=0;
 	
-	ch=getchar();
+	ch='\n';
 	int p;
-	printf("Enter the ip of node to sniff. Press enter if you don't want. \n");
-	while((ch=getchar())!='\n')
+	//printf("Enter the ip of node to sniff. Press enter if you don't want. \n");
+	ch='\n';
+	while((ch)!='\n')
 	{
 		ip[i]=ch;
 		i++;
@@ -462,9 +465,10 @@ int main()
 	ip[i]='\0';
 	filter_exp.ip=ip;
 
-	printf("Enter the protocol:\n0:ignore\n1:TCP \n2:UDP \n3:ICMP \n");
-	scanf("%d", &p);
-
+	//printf("Enter the protocol:\n0:ignore\n1:TCP \n2:UDP \n3:ICMP \n");
+	//scanf("%d", &p);
+	if (argc > 2) p = atoi(argv[2]);
+	else p=0;
 	printf("For all packets , take a look at log.txt\n");
 
 	if(p==1) filter_exp.protocol=IPPROTO_TCP;
